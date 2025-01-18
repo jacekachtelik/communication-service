@@ -35,3 +35,4 @@ Na poziomie kontekstowym projekt przedstawia się następująco:
 Na poziomie kontenerów, projekt można przedstawic następująco:
 
 ![Eksport - diagram kontenerów](_media/cs-export-container.svg)
+
