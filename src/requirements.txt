@@ -1,3 +1,8 @@
 fastapi
 uvicorn
 pydantic
+cloudevents
+redis
+python-dotenv
+toml
+tomli

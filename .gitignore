@@ -1,1 +1,2 @@
 src/cs-venv/*
+__pycache__/*

@@ -1,0 +1,18 @@
+{
+    "type": "document.add",
+    "specversion": "1.0",
+    "source": "/postman",
+    "subject": "New document added",
+    "id": "POSTMAN-20250119-1200",
+    "time": "2025-01-19T12:00:00Z",
+    "datacontenttype": "application/json",
+    "data": {
+        "event": {
+            "name": "Document added",
+            "description": "This is a Postman document",
+            "location": "Tychy",
+            "start_time": "2025-01-19T12:00:00Z",
+            "end_time": "2025-01-19T13:00:00Z"
+        }
+    }
+}
